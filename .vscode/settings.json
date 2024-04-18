@@ -1,0 +1,7 @@
+{
+    "dart.addSdkToTerminalPath": true,
+    "dart.sdkPaths": [
+        "C:\\flutter\\bin\\cache\\dart-sdk"
+    ],
+    "dart.sdkSwitchingTarget": "global"
+}
