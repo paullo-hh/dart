@@ -28,7 +28,7 @@ main() {
                                                             /* para a impressão dos prints da maneira tradicional com quebras, pode ser utilizado o *print*.
                                                                para imprimir o que desejo e entrada que espero em uma única linha usa-se o *stdout.write("texto desejado")* */
 
-    // CALCULADNO AREA DA CIRCUNFERÊNCIA
+    // CALCULANDO AREA DA CIRCUNFERÊNCIA
 
 
                                                             /* DECLARANDO VARIÁVEIS OU CONSTANTES */
